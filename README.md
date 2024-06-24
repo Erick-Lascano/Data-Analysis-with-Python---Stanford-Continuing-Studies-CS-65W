@@ -8,7 +8,7 @@ The goal of this project is to apply data analysis techniques and unsupervised m
 The dataset used in this project is courtesy of Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
 # Results
-All the project is documented within the [Spotify_Data_Analysis.ipynb]((https://github.com/Erick-Lascano/Data-Analysis-with-Python---Stanford-Continuing-Studies-CS-65W/blob/main/Spotify_Data_Analysis.ipynb)) notebook.
+All the project is documented within the [Spotify_Data_Analysis.ipynb](https://github.com/Erick-Lascano/Data-Analysis-with-Python---Stanford-Continuing-Studies-CS-65W/blob/main/Spotify_Data_Analysis.ipynb) notebook.
 
 
 
