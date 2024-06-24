@@ -7,6 +7,9 @@ The goal of this project is to apply data analysis techniques and unsupervised m
 # Dataset
 The dataset used in this project is courtesy of Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
+# Results
+All the project is documented within the Spotify_Data_Analysis.ipynb notebook.
+
 # Additional Resources
 Don't forget to check out the instructor's book, "Effective Pandas: Patterns for Data Manipulation" by Matt Harrison, for an in-depth guide to data analysis with Python.
 
